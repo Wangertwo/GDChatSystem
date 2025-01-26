@@ -1,0 +1,18 @@
+{
+    "email": {
+      "user": "19941612317@163.com",
+      "pass": "ZTfs2spnh9atssub"
+    },
+
+    "mysql": {
+        "host": "127.0.0.1",
+        "port": 3306,
+        "passwd": 123456
+    },
+
+    "redis": {
+        "host": "127.0.0.1",
+        "port": "6379",
+        "passwd": 123456
+    }
+}
